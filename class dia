@@ -1,0 +1,38 @@
+
+Ingredient                    
+
++Type: String
++Name: String
+
++GetType()
++GetIngre()
+
+
+
+
+Search
++Color: String
+
+
++Search()
+
+
+
+
+Filter
++Category: String
++Subcategory: String
++Cuisine: String
++Seasonality: String
++GetFilter()
+
+
+
+
+Result
++Name: String
++Color: String
+
+
++GetColor()
++GetResult()
